@@ -1,0 +1,14 @@
+.dummy{
+	color : black;
+}
+
+.buttons {
+    font-family: Volkorn;
+    background: white;
+    border: 4px solid black;
+    cursor: pointer;
+    width:30%;
+    height: 70px;
+    font-size: 200%;
+    text-align: center;
+  }
